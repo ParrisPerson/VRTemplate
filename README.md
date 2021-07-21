@@ -1,2 +1,2 @@
 # VRTemplate
-VR Template for unity Developement
+VR Template for unity Development
